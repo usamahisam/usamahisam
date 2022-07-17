@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamahisam&show_icons=true&theme=monokai&border_radius=0&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamahisam&show_icons=true&border_radius=0&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
