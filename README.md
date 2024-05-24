@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamahisam&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![usamahisam's Stats](https://github-readme-stats.vercel.app/api?username=usamahisam&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
+![usamahisam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamahisam&theme=dracula&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![usamahisam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&theme=dracula&show_icons=true&hide_border=false&layout=compact)
