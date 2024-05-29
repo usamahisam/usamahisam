@@ -6,4 +6,4 @@
 
 ![usamahisam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamahisam&theme=dracula&hide_border=false)
 
-![usamahisam's Top Languages](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=usamahisam&theme=dracula&show_icons=true&hide_border=false&langs_count=12)
+![usamahisam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&theme=dracula&show_icons=true&hide_border=false&langs_count=12)
